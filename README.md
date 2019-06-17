@@ -1,11 +1,11 @@
-# Introduction
+## Introduction
 
 What can be better than a vending machine serving delicious fresh fruits?
 Drop some squids into it and it will do magic! :) 
 
 Project will be live at: https://adrianhulparu.github.io/vending-machine
 
-# Development
+## Development
 
 In order to run the app in development mode, go in the project directory and run
 `npm install`, followed by `npm run start`. <br><br>Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -13,18 +13,18 @@ In order to run the app in development mode, go in the project directory and run
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
-# Description
+## Description
 
 The app consists of 2 views with the following routes: <br>
  
-##Vending machine: 
+**Vending machine:** 
 `/` - main screen with 4 main components:<br>
 **`Products display`**: grid showcasing available products<br>
 **`Money slot`**: controls for adding credits<br>
 **`Screen`**: display info around credits, selection and other interactions with the machine<br>
 **`Keypad`**: used for inputting user's selection<br>
 
-##Inventory: 
+**Inventory:** 
 `/inventory` - a view with a react data table component, allowing to edit product quantities on each slot (max 10 products per slot) <br><br>
 
 This project was developed using React & Redux, making use of the latest features like functional components and hooks.
