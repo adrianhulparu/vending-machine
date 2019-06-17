@@ -14,8 +14,8 @@ ReactDOM.render(
   <Provider store={store}>
     <ConnectedRouter history={history}>
       <Switch>
-        <Route exact path="/" render={VendingMachine} />
-        <Route exact path="/inventory" render={Inventory} />
+        <Route exact path={process.env.PUBLIC_URL + '/'} render={VendingMachine} />
+        <Route exact path={process.env.PUBLIC_URL + '/inventory'} render={Inventory} />
         <Route render={() => <div>Looks like you've got lost! :(</div>} />
       </Switch>
     </ConnectedRouter>
