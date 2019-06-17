@@ -1,7 +1,7 @@
 {
   "name": "vending-machine",
-  "homepage": "http://adrianhulparu.github.io/vending-machine",
-  "version": "0.1.0",
+  "homepage": "https://adrianhulparu.github.io/vending-machine",
+  "version": "1.1.1",
   "private": true,
   "dependencies": {
     "connected-react-router": "^6.4.0",
