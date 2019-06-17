@@ -1,0 +1,23 @@
+{
+  "products": {
+    "setPrice": "PRODUCT_SET_PRICE"
+  },
+  "slots": {
+    "removeProduct": "SLOT_REMOVE_PRODUCT",
+    "addProduct": "SLOT_ADD_PRODUCT"
+  },
+  "credits": {
+    "add": "CREDITS_ADD",
+    "remove": "CREDITS_REMOVE" ,
+    "reset": "CREDITS_RESET"
+  },
+  "screen": {
+    "set": "SCREEN_SET",
+    "clear": "SCREEN_CLEAR"
+  },
+  "selection": {
+    "add": "SELECTION_ADD",
+    "set": "SELECTION_SET",
+    "reset": "SELECTION_RESET"
+  }
+}
