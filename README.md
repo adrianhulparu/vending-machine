@@ -32,4 +32,3 @@ Actions are implemented using the `redux-actions` package as I find this approac
 In order to keep store data minimal, computations were done through selectors using `reselect`.
 For styling/layout, I used `styled-components` with `rebass` for atomic components. 
 I've tried to have fun with it but not going too wild. Hope you'll like it!
-
