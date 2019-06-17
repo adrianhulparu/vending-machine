@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "973c653eb5677ece7fecaa3d7eb59468",
+    "revision": "b6a24cc162715698ba461783c01bc115",
     "url": "/vending-machine/index.html"
   },
   {
-    "revision": "89d0cfffdf56a7b9cadc",
+    "revision": "de3d7ba381ede95bb1e8",
     "url": "/vending-machine/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vending-machine/static/js/2.acb28f3a.chunk.js"
   },
   {
-    "revision": "89d0cfffdf56a7b9cadc",
-    "url": "/vending-machine/static/js/main.0eeef4c1.chunk.js"
+    "revision": "de3d7ba381ede95bb1e8",
+    "url": "/vending-machine/static/js/main.0626d121.chunk.js"
   },
   {
     "revision": "6970cc35a241b64e454a",
