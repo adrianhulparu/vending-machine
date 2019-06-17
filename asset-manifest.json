@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vending-machine/static/css/main.34de6062.chunk.css",
-    "main.js": "/vending-machine/static/js/main.246d3097.chunk.js",
-    "main.js.map": "/vending-machine/static/js/main.246d3097.chunk.js.map",
+    "main.js": "/vending-machine/static/js/main.8af34fa9.chunk.js",
+    "main.js.map": "/vending-machine/static/js/main.8af34fa9.chunk.js.map",
     "runtime~main.js": "/vending-machine/static/js/runtime~main.7072e60e.js",
     "runtime~main.js.map": "/vending-machine/static/js/runtime~main.7072e60e.js.map",
     "static/js/2.acb28f3a.chunk.js": "/vending-machine/static/js/2.acb28f3a.chunk.js",
     "static/js/2.acb28f3a.chunk.js.map": "/vending-machine/static/js/2.acb28f3a.chunk.js.map",
     "index.html": "/vending-machine/index.html",
-    "precache-manifest.2d5c138f67f104c125a0fb5392bbe545.js": "/vending-machine/precache-manifest.2d5c138f67f104c125a0fb5392bbe545.js",
+    "precache-manifest.919bedf1c996eb41e2dea8a4e0d48fbc.js": "/vending-machine/precache-manifest.919bedf1c996eb41e2dea8a4e0d48fbc.js",
     "service-worker.js": "/vending-machine/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/vending-machine/static/css/main.34de6062.chunk.css.map"
   }
