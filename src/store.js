@@ -137,7 +137,7 @@ const initialState = {
   }
 };
 
-export const history = createBrowserHistory({ basename: process.env.PUBLIC_URL });
+export const history = createBrowserHistory();
 
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 
