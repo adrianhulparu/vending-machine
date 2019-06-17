@@ -3,7 +3,7 @@
 What can be better than a vending machine serving delicious fresh fruits?
 Drop some squids into it and it will do magic! :) 
 
-Project will be live at: https://adrianhulparu.github.io/vending-machine
+Project is deployed at: https://adrianhulparu.github.io/vending-machine
 
 ## Development
 

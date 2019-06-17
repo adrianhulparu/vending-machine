@@ -16,7 +16,7 @@ ReactDOM.render(
       <Switch>
         <Route exact path='/' render={VendingMachine} />
         <Route exact path='/inventory' render={Inventory} />
-        <Route render={() => <div>Looks like you've got lost! {process.env.PUBLIC_URL}:(</div>} />
+        <Route render={() => <div>Looks like you've got lost! :(</div>} />
       </Switch>
     </ConnectedRouter>
   </Provider>,
